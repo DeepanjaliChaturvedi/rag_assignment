@@ -1,0 +1,8 @@
+streamlit
+langchain
+sentence-transformers
+scikit-learn
+cohere
+pypdf
+PyPDF2
+numpy
