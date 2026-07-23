@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on building systems that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning is a subset of AI that enables systems to learn from data without being explicitly programmed. It is widely used in recommendation systems, fraud detection, and image recognition.
+
+Deep Learning is a further subset of machine learning that uses neural networks with many layers. It is especially useful for complex tasks like speech recognition and computer vision.
+
+Natural Language Processing (NLP) allows machines to understand and generate human language. It is used in chatbots, translation systems, and sentiment analysis.
